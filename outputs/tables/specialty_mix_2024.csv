@@ -1,0 +1,13 @@
+specialty,claims,prescribers,claims_per_prescriber,claim_share
+Family Practice,5758120,63965,90,0.2952
+Internal Medicine,4862927,44953,108,0.2493
+Nurse Practitioner,4031288,51726,78,0.2067
+Endocrinology,2483286,5879,422,0.1273
+Physician Assistant,1369104,17500,78,0.0702
+General Practice,189039,2377,80,0.0097
+Cardiology,164973,2309,71,0.0085
+Pharmacist,116213,1021,114,0.0060
+Nephrology,83390,1147,73,0.0043
+Geriatric Medicine,54125,792,68,0.0028
+Emergency Medicine,51961,644,81,0.0027
+Hospitalist,50351,896,56,0.0026

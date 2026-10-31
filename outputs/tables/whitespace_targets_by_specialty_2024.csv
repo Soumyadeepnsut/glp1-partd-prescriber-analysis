@@ -1,0 +1,11 @@
+specialty,target_prescribers,their_glp1_claims,avg_glp1_claims
+Family Practice,1372,260206,190
+Internal Medicine,1302,257789,198
+Nurse Practitioner,506,96535,191
+Physician Assistant,209,39286,188
+Pharmacist,150,36797,245
+Endocrinology,89,25822,290
+General Practice,79,14852,188
+Nephrology,32,6543,204
+Cardiology,31,6564,212
+Geriatric Medicine,23,4590,200
